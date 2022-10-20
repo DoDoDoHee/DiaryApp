@@ -17,7 +17,7 @@
     "react-native-calendar-picker": "^6.0.3",
     "react-native-calendars": "^1.220.0",
     "react-native-gesture-handler": "~1.5.0",
-    "react-native-reanimated": "~1.4.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-uuid": "^1.4.9",
     "react-native-web": "~0.11.7",
     "react-navigation": "^4.0.10",
